@@ -1,0 +1,5 @@
+Ivanov - 18000
+Smirnov - 23000
+Sobolev - 20500
+Leontev - 21000
+Stepanov - 19600
